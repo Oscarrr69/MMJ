@@ -1,0 +1,19 @@
+{
+    "places": [
+      {
+        "id": "1",
+        "name": "Mombasa",
+        "img": "https://images.unsplash.com/photo-1660896591576-a9a98f0e6091?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDUwfEZ6bzN6dU9ITjZ3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "2",
+        "name": "Naivasha",
+        "img": "https://images.unsplash.com/photo-1660896592505-d77826b40a2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ5fEZ6bzN6dU9ITjZ3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "3",
+        "name": "Nyeri",
+        "img": "https://images.unsplash.com/photo-1660896592505-d77826b40a2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ5fEZ6bzN6dU9ITjZ3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      }
+    ]
+}
